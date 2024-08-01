@@ -1,2 +1,2 @@
-The simulations are run in python3.11
+Popsim_exec.py runs simulations in python 3.11
 
